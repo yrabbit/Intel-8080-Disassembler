@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int disassembler(unsigned char* buffer, int pc);
+int disassemble(unsigned char* buffer, int pc);
 
 int main(int argc, char **argv)
 {
